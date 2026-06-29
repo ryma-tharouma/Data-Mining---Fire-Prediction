@@ -92,6 +92,5 @@ The project analyzes multiple feature categories:
 
 ## Author Notes
 
-- Results include Bayesian evaluation metrics
 - Search notebooks contain hyperparameter tuning configurations
 - Models are trained on multiple data balancing strategies for comparison
